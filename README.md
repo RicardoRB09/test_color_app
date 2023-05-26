@@ -1,3 +1,3 @@
 # test_color_app
 
-A new Flutter project.
+Is just an app to test some animations using provider. Just touch the screen and check what ahappen next...
